@@ -63,8 +63,10 @@ you can easily paste your address to our website for using our tools
 ![photo_2024-12-20_06-31-35](https://github.com/user-attachments/assets/0a672a40-b477-44fa-9196-363f8ab41f1a)
 
 
-Website : trobosai.com
+Website : https://trobosai.com
 
 Twitter : https://x.com/Trobos_ai
+
+CA : 
 
 
