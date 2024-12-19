@@ -1,3 +1,5 @@
+![photo_2024-12-20_06-12-14](https://github.com/user-attachments/assets/25e393dc-65eb-4ee3-898f-9d1262e2b708)
+
 # Trobos Portfolio Analyzer
 
 A Rust-based CLI tool demonstrating the use of Rig with Zapper's GraphQL API and OpenAI to create an interactive portfolio analysis agent.
