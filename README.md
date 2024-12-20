@@ -71,6 +71,6 @@ Website : https://trobosai.com
 
 Twitter : https://x.com/Trobos_ai
 
-CA : 
+CA : 2GjTqPsmucVvu8jgw5DKdbu8CK1LQ7uDYJeS6LWPpump
 
 
