@@ -48,14 +48,18 @@ Example:
 - `src/main.rs` - CLI interface and agent setup
 
 ## Tobos Overview
+
 Agent tools, on the other hand, are functions that allow the agent to perform specific tasks such analyzing your portfolio asset.
 In Trobos ai :
 The agent uses a tool to query Zapper’s API and GPT to interpret the data / provide insights.
 Tools make Trobos agents extensible and focused.
+
 ![image](https://github.com/user-attachments/assets/25d7ea78-8326-4de4-b1ee-cd053a59f599)
 ![image](https://github.com/user-attachments/assets/0c6c461f-6e8f-478a-9634-3b11f818bf1c)
 
+
 you can easily paste your address to our website for using our tools
+
 
 ![image](https://github.com/user-attachments/assets/0f4f9fe5-1fa5-4131-8cdc-c6fe6f40b17e)
 
